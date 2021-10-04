@@ -18,7 +18,7 @@ Test blog. Based on Laravel 7.0
 ```
 git clone 
 composer install
-change .env.example to .env
+change the  sample.env to .env
 add the db values in .env
 change the db values in  config/database.php
 php artisan migrate
